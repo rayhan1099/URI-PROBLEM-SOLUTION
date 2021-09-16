@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585922791 source:g:\uri problem\1075\main.c
+	<stdio.h>
+	<stdlib.h>
+
